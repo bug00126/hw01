@@ -80,7 +80,7 @@ public class Main {
             if (typeCount.get(type)!=0) {
                 if (result.get(type).equals(0)) {
                     System.out.println(type + ": " + typeCount.get(type));
-                    result.put(type, 1); //to tell the system that you have already printed the amount of the type ypu caught  }
+                    result.put(type, 1); //to tell the system that you have already printed the amount of the type ypu caught
                 }
             }
         }
