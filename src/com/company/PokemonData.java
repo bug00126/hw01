@@ -1,4 +1,4 @@
-package ss.labs.pokemon;
+package com.company;
 
 /**
  * Created by jerry on 2017/3/1.

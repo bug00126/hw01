@@ -1,4 +1,4 @@
-package ss.labs.pokemon;
+package com.company;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.HashMap;
